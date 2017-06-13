@@ -3,7 +3,7 @@
       <div class="positionBar">
         <span>您的当前位置：</span>
         <span><a :href="studentPageUrl" class="returnHome">首页</a></span>
-        <span> > 修改密码</span>
+        <span>修改密码</span>
       </div>
       <div class="content">
         <div class="empty"></div>
